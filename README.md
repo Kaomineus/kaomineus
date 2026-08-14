@@ -35,19 +35,16 @@
 
 
 
-```text
-[+] PYTHON     [████████████████░░░░] 80% [Machine Learning]
-[+] FASTAPI    [████████████████░░░░] 80% [Backend]
-[+] SQL        [██████████░░░░░░░░░░] 50% [Data Analyst]
-[+] SOLIDITY   [██████░░░░░░░░░░░░░░] 30% [Smart Contract]
-[+] JS         [██████████░░░░░░░░░░] 50% [Web Development]
-[+] TS         [██████████░░░░░░░░░░] 50% [Web Development]
-[+] HTML       [██████████░░░░░░░░░░] 50% [Web Development]
-[+] CSS        [██████████░░░░░░░░░░] 50% [Web Development]
-[+] JSX        [██████████░░░░░░░░░░] 50% [Web Development]
-[+] TSX        [██████████░░░░░░░░░░] 50% [Web Development]
-```
-
+<code>[+] PYTHON     [████████████████░░░░] 80% [Machine Learning]</code><br />
+<code>[+] FASTAPI    [████████████████░░░░] 80% [Backend]</code><br />
+<code>[+] SQL        [██████████░░░░░░░░░░] 50% [Data Analyst]</code><br />
+<code>[+] SOLIDITY   [██████░░░░░░░░░░░░░░] 30% [Smart Contract]</code><br />
+<code>[+] JS         [██████████░░░░░░░░░░] 50% [Web Development]</code><br />
+<code>[+] TS         [██████████░░░░░░░░░░] 50% [Web Development]</code><br />
+<code>[+] HTML       [██████████░░░░░░░░░░] 50% [Web Development]</code><br />
+<code>[+] CSS        [██████████░░░░░░░░░░] 50% [Web Development]</code><br />
+<code>[+] JSX        [██████████░░░░░░░░░░] 50% [Web Development]</code><br />
+<code>[+] TSX        [██████████░░░░░░░░░░] 50% [Web Development]</code>
 
 
 
