@@ -91,3 +91,9 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kaomineus&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&layout=compact&v=2" width="450" alt="WakaTime Stats" />
 </p>
+
+
+---
+
+> `[SYS_LOG]` **"In math and code we trust, everything else is noise."**
+
