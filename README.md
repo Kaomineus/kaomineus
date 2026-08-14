@@ -23,15 +23,28 @@
   <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/SOLIDITY-000000?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JSX-000000?style=for-the-badge&logo=react&logoColor=white" />
 </p>
-
 
 <!-- SECTION D: STATISTICS & CONTRIBUTION GRAPH -->
 ### Statistics
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaomineus&theme=dark&background=000000&border=111111&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=888888" alt="GitHub Streak" width="90%" />
-</p>
+<table border="0" width="100%">
+  <tr>
+    <!-- Kolom Kiri: GIF Estetik (Ganti NAMA_GIF_KAMU.gif dengan file gif milikmu) -->
+    <td width="35%" align="center" valign="middle">
+      <img src="WhatsApp Image 2026-08-14 at 18.25.47.jpeg" width="100%" alt="Stats GIF" />
+    </td>
+    <!-- Kolom Kanan: Kartu Streak Stats -->
+    <td width="65%" align="center" valign="middle">
+      <img src="https://streak-stats.demolab.com/?user=kaomineus&theme=dark&background=000000&border=000000&v=1" width="100%" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
 
 ### Contribution Graph
 
