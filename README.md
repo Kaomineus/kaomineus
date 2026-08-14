@@ -13,3 +13,14 @@
 <p align="center">
   <img src="WhatsApp GIF 2026-08-14 at 18.03.05.gif" width="100%" alt="Bio Banner" />
 </p>
+
+
+
+<!-- SECTION C: TECHNOLOGIES -->
+### Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
