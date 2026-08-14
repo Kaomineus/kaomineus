@@ -59,32 +59,27 @@
   <img src="https://lanyard.cnrad.dev/api/840613138839896175?theme=dark&bg=000000&hideDiscrim=true&borderRadius=10px" alt="Spotify Status" />
 </p>
 
-
-<!-- WAKATIME STATS -->
-### Coding Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=USERNAME_WAKATIME_KAMU&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&layout=compact" width="450" alt="WakaTime Stats" />
-</p>
-
-
-<!-- TOP REPOSITORIES -->
+<!-- FEATURED PROJECTS -->
 ### Featured Projects
 
 <table border="0" width="100%">
   <tr>
-    <!-- PROJECT 1: Options Pricing Engine -->
     <td width="50%" align="center">
       <a href="https://github.com/Kaomineus/options-pricing-engine">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaomineus&repo=options-pricing-engine&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" width="100%" alt="Options Pricing Engine" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaomineus&repo=options-pricing-engine&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&v=2" width="100%" alt="Options Pricing Engine" />
       </a>
     </td>
-    <!-- PROJECT 2: Cyphertrace -->
     <td width="50%" align="center">
       <a href="https://github.com/Kaomineus/cyphertrace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kaomineus&repo=cyphertrace&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa" width="100%" alt="Cyphertrace" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaomineus&repo=cyphertrace&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&v=2" width="100%" alt="Cyphertrace" />
       </a>
     </td>
   </tr>
 </table>
 
+<!-- CODING ACTIVITY (WAKATIME) -->
+### Coding Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kaomineus&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&layout=compact&v=2" width="450" alt="WakaTime Stats" />
+</p>
