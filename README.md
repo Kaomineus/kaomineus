@@ -66,12 +66,12 @@
   <tr>
     <td width="50%" align="center">
       <a href="https://github.com/Kaomineus/options-pricing-engine">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaomineus&repo=options-pricing-engine&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&v=2" width="100%" alt="Options Pricing Engine" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaomineus&repo=options-pricing-engine&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&show_owner=false&cache_bypass=true" width="100%" alt="Options Pricing Engine" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/Kaomineus/cyphertrace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaomineus&repo=cyphertrace&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&v=2" width="100%" alt="Cyphertrace" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaomineus&repo=cyphertrace&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&show_owner=false&cache_bypass=true" width="100%" alt="Cyphertrace" />
       </a>
     </td>
   </tr>
