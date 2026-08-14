@@ -1,3 +1,8 @@
+<!-- TERMINAL SYINFO HEADER -->
+<p align="center">
+  <img src="https://path/to/your/image_7.png" alt="Terminal SysInfo Header" width="100%" />
+</p>
+
 <!-- 1. Banner Profil -->
 <p align="center">
   <img src="banner.gif" width="100%" alt="Banner Profil">
