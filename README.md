@@ -59,20 +59,28 @@
   <img src="https://lanyard.cnrad.dev/api/840613138839896175?theme=dark&bg=000000&hideDiscrim=true&borderRadius=10px" alt="Spotify Status" />
 </p>
 
-<!-- FEATURED PROJECTS -->
+<!-- FEATURED PROJECTS (STABIL 100%) -->
 ### Featured Projects
 
-<table border="0" width="100%">
+<table width="100%">
   <tr>
     <td width="50%" align="center">
+      <br />
       <a href="https://github.com/Kaomineus/options-pricing-engine">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaomineus&repo=options-pricing-engine&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&show_owner=false&cache_bypass=true" width="100%" alt="Options Pricing Engine" />
+        <img src="https://img.shields.io/badge/OPTIONS--PRICING--ENGINE-000000?style=for-the-badge&logo=python&logoColor=white" alt="Options Pricing Engine" />
       </a>
+      <br /><br />
+      <sub><b>Python Options Pricing Engine & Financial Models</b></sub>
+      <br /><br />
     </td>
     <td width="50%" align="center">
+      <br />
       <a href="https://github.com/Kaomineus/cyphertrace">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kaomineus&repo=cyphertrace&theme=dark&bg_color=000000&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=aaaaaa&show_owner=false&cache_bypass=true" width="100%" alt="Cyphertrace" />
+        <img src="https://img.shields.io/badge/CYPHERTRACE-000000?style=for-the-badge&logo=typescript&logoColor=white" alt="Cyphertrace" />
       </a>
+      <br /><br />
+      <sub><b>Crypto Forensic & On-Chain Investigation Terminal</b></sub>
+      <br /><br />
     </td>
   </tr>
 </table>
