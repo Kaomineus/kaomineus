@@ -3,10 +3,6 @@
   <img src="WhatsApp GIF 2026-08-14 at 18.03.05.gif" width="100%" alt="Bio Banner" />
 </p>
 
-<!-- 1. Banner Profil -->
-<p align="center">
-  <img src="banner.gif" width="100%" alt="Banner Profil">
-</p>
 
 <!-- 2. Profile Views Counter -->
 <p align="left">
@@ -42,6 +38,10 @@
 <code>[+] JSX        [██████████░░░░░░░░░░] 50% [Web Development]</code><br />
 <code>[+] TSX        [██████████░░░░░░░░░░] 50% [Web Development]</code>
 
+<!-- 1. Banner Profil -->
+<p align="center">
+  <img src="banner.gif" width="100%" alt="Banner Profil">
+</p>
 
 
 <!-- SECTION D: STATISTICS & CONTRIBUTION GRAPH -->
