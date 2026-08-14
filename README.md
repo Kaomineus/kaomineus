@@ -11,5 +11,5 @@
 
 <!-- SECTION B: BIO BANNER -->
 <p align="center">
-  <img src="WhatsApp GIF 2026-08-14 at 17.53.20.gif" width="100%" alt="Bio Banner" />
+  <img src="WhatsApp GIF 2026-08-14 at 18.03.05.gif" width="100%" alt="Bio Banner" />
 </p>
