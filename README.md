@@ -3,7 +3,6 @@
   <img src="WhatsApp GIF 2026-08-14 at 18.03.05.gif" width="100%" alt="Bio Banner" />
 </p>
 
-
 <!-- 2. Profile Views Counter -->
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=kaomineus&color=000000&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
@@ -38,12 +37,6 @@
 <code>[+] JSX        [██████████░░░░░░░░░░] 50% [Web Development]</code><br />
 <code>[+] TSX        [██████████░░░░░░░░░░] 50% [Web Development]</code>
 
-<!-- 1. Banner Profil -->
-<p align="center">
-  <img src="banner.gif" width="100%" alt="Banner Profil">
-</p>
-
-
 <!-- SECTION D: STATISTICS & CONTRIBUTION GRAPH -->
 ### Statistics
 
@@ -64,6 +57,11 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaomineus&theme=react-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
+</p>
+
+<!-- 1. Banner Profil -->
+<p align="center">
+  <img src="banner.gif" width="100%" alt="Banner Profil">
 </p>
 
 <!-- FEATURED PROJECTS (STABIL 100%) -->
