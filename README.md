@@ -46,6 +46,10 @@
 [+] CSS        [██████████░░░░░░░░░░] 50% [Web Development]
 [+] JSX        [██████████░░░░░░░░░░] 50% [Web Development]
 [+] TSX        [██████████░░░░░░░░░░] 50% [Web Development]
+```
+
+
+
 
 <!-- SECTION D: STATISTICS & CONTRIBUTION GRAPH -->
 ### Statistics
