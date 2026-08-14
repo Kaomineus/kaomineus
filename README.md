@@ -1,8 +1,3 @@
-<!-- TERMINAL SYINFO HEADER -->
-<p align="center">
-  <img src="https://path/to/your/image_7.png" alt="Terminal SysInfo Header" width="100%" />
-</p>
-
 <!-- 1. Banner Profil -->
 <p align="center">
   <img src="banner.gif" width="100%" alt="Banner Profil">
@@ -73,11 +68,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaomineus&theme=react-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
-</p>
-
-<!-- SPOTIFY VIA LANYARD (DISCORD) -->
-<p align="center">
-  <img src="https://lanyard.cnrad.dev/api/840613138839896175?theme=dark&bg=000000&hideDiscrim=true&borderRadius=10px" alt="Spotify Status" />
 </p>
 
 <!-- FEATURED PROJECTS (STABIL 100%) -->
