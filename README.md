@@ -32,6 +32,21 @@
   <img src="https://img.shields.io/badge/TSX-000000?style=for-the-badge&logo=react&logoColor=white" />
 </p>
 
+
+
+
+```text
+[+] PYTHON     [████████████████░░░░] 80% [Machine Learning]
+[+] FASTAPI    [████████████████░░░░] 80% [Backend]
+[+] SQL        [██████████░░░░░░░░░░] 50% [Data Analyst]
+[+] SOLIDITY   [██████░░░░░░░░░░░░░░] 30% [Smart Contract]
+[+] JS         [██████████░░░░░░░░░░] 50% [Web Development]
+[+] TS         [██████████░░░░░░░░░░] 50% [Web Development]
+[+] HTML       [██████████░░░░░░░░░░] 50% [Web Development]
+[+] CSS        [██████████░░░░░░░░░░] 50% [Web Development]
+[+] JSX        [██████████░░░░░░░░░░] 50% [Web Development]
+[+] TSX        [██████████░░░░░░░░░░] 50% [Web Development]
+
 <!-- SECTION D: STATISTICS & CONTRIBUTION GRAPH -->
 ### Statistics
 
