@@ -59,11 +59,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=kaomineus&theme=react-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%" />
 </p>
 
-<!-- 1. Banner Profil -->
-<p align="center">
-  <img src="banner.gif" width="100%" alt="Banner Profil">
-</p>
-
 <!-- FEATURED PROJECTS (STABIL 100%) -->
 ### Featured Projects
 
