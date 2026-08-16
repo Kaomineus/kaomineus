@@ -26,7 +26,7 @@
 
 
 
-<code>[+] PYTHON     [████████████████░░░░] 80% [Machine Learning]</code><br />
+<code>[+] PYTHON     [████████████████░░░░] 30% [Machine Learning]</code><br />
 <code>[+] FASTAPI    [████████████████░░░░] 80% [Backend]</code><br />
 <code>[+] SQL        [██████████░░░░░░░░░░] 50% [Data Analyst]</code><br />
 <code>[+] SOLIDITY   [██████░░░░░░░░░░░░░░] 30% [Smart Contract]</code><br />
