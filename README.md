@@ -47,16 +47,16 @@
 
 <table width="100%">
   <tr>
-    <td><code>■ CONTRIBUTION CHART · DAILY</code></td>
-    <td align="right"><code>● LIVE · ghchart</code></td>
+    <td><code>👤 KAOMINEUS · PROFILE</code></td>
+    <td align="right"><code>● LIVE · summary-cards</code></td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://ghchart.rshah.org/58a6ff/Kaomineus.svg" alt="Contribution Chart" width="100%" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaomineus&theme=github_dark" alt="Profile Details" width="100%" />
     </td>
   </tr>
   <tr>
-    <td colspan="2"><sub>line/bar chart kontribusi harian · warna bisa custom</sub></td>
+    <td colspan="2"><sub>followers · following · repos · graph 1 tahun · top languages</sub></td>
   </tr>
 </table>
 
