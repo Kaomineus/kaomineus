@@ -19,13 +19,13 @@
 
 
 
-<code>[+] PYTHON     [████████████████░░░░] 30% [Machine Learning]</code><br />
-<code>[+] FASTAPI    [████████████████░░░░] 80% [Backend]</code><br />
-<code>[+] SQL        [██████████░░░░░░░░░░] 50% [Data Analyst]</code><br />
-<code>[+] JS         [██████████░░░░░░░░░░] 50% [Web Development]</code><br />
-<code>[+] HTML       [██████████░░░░░░░░░░] 50% [Web Development]</code><br />
-<code>[+] CSS        [██████████░░░░░░░░░░] 50% [Web Development]</code><br />
-<code>[+] JSX        [██████████░░░░░░░░░░] 50% [Web Development]</code><br />
+<code>[+] PYTHON     [████████████████░░░░] 30% </code><br />
+<code>[+] FASTAPI    [████████████████░░░░] 80% </code><br />
+<code>[+] SQL        [██████████░░░░░░░░░░] 50% </code><br />
+<code>[+] JS         [██████████░░░░░░░░░░] 50% </code><br />
+<code>[+] HTML       [██████████░░░░░░░░░░] 50% </code><br />
+<code>[+] CSS        [██████████░░░░░░░░░░] 50% </code><br />
+<code>[+] JSX        [██████████░░░░░░░░░░] 50% </code><br />
 
 <!-- SECTION D: STATISTICS & CONTRIBUTION GRAPH -->
 ### Statistics
