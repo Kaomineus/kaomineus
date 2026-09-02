@@ -46,9 +46,8 @@
 ### Contribution Graph
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/Kaomineus.svg" alt="Contribution Graph" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaomineus&theme=github_dark" alt="Profile Details" width="100%" />
 </p>
-
 <!-- FEATURED PROJECTS (STABIL 100%) -->
 ### Featured Projects
 
