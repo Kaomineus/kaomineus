@@ -45,23 +45,74 @@
 
 ### Contribution Graph
 
-<table width="100%">
-  <tr>
-    <td><code>■ CONTRIB · 52 WEEKS · AUTO-REGEN 24H</code></td>
-    <td align="right"><code>● LIVE · GitHub API</code></td>
-  </tr>
-  <tr>
-    <td colspan="2">
 <!--CONTRIB:START-->
-<pre>░░▒▓█░░▒█▓░░░██▒░▓░░█▒▒░▓█░░▒░█░▒░░█▒▓░░█░▒▓█░░▒░▓█</pre>
+<pre>
+┌────────────────────────────────────────────────────────────────┐
+│ ▂▃▂▅▆█▆▅▂▁▂▃▂▅▆█▆▅▂▁▂▃▂▅▆█▆▅▂▁▂▃▂▅▆█▆▅▂▁▂▃▂▅▆█▆▅▂▁▂▃▂▅▆█▆▅▂▁▂ │
+│ ────────────────────────────────────────────────────────────── │
+│ KONTRIBUSI HARIAN · 62 HARI · AUTO-REGEN 24H                   │
+└────────────────────────────────────────────────────────────────┘
+</pre>
 <!--CONTRIB:END-->
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2"><sub>░ = 0 · ▒ = 1-3 · ▓ = 4-7 · █ = 8+ commits/minggu · butuh workflow <code>.github/workflows/contrib.yml</code> (kode di pesan sebelumnya)</sub></td>
-  </tr>
-</table>
+name: contrib-strip
 
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/github-script@v7
+        with:
+          script: |
+            const { owner, repo } = context.repo;
+            const res = await github.graphql(
+              `query($login: String!) {
+                user(login: $login) {
+                  contributionsCollection {
+                    contributionCalendar {
+                      weeks { contributionDays { contributionCount date } }
+                    }
+                  }
+                }
+              }`,
+              { login: owner }
+            );
+            const days = res.user.contributionsCollection.contributionCalendar.weeks
+              .flatMap((w) => w.contributionDays)
+              .sort((a, b) => a.date.localeCompare(b.date))
+              .slice(-62);
+            const bars = "▁▂▃▄▅▆▇█";
+            const lvl = (n) => (n <= 0 ? 0 : n === 1 ? 1 : n <= 2 ? 2 : n <= 3 ? 3 : n <= 5 ? 4 : n <= 7 ? 5 : n <= 9 ? 6 : 7);
+            const row = days.map((d) => bars[lvl(d.contributionCount)]).join("");
+            const W = row.length;
+            const caption = "KONTRIBUSI HARIAN · 62 HARI · AUTO-REGEN 24H";
+            const art = [
+              "┌" + "─".repeat(W + 2) + "┐",
+              "│ " + row + " │",
+              "│ " + "─".repeat(W) + " │",
+              "│ " + caption.padEnd(W) + " │",
+              "└" + "─".repeat(W + 2) + "┘",
+            ].join("\n");
+            const { data: file } = await github.rest.repos.getContent({ owner, repo, path: "README.md" });
+            const md = Buffer.from(file.content, "base64").toString("utf8");
+            const S = "<!--CONTRIB:START-->", E = "<!--CONTRIB:END-->";
+            const i = md.indexOf(S), j = md.indexOf(E);
+            if (i < 0 || j < 0) throw new Error("markers tidak ditemukan");
+            const next = md.slice(0, i + S.length) + "\n<pre>\n" + art + "\n</pre>\n" + md.slice(j);
+            await github.rest.repos.createOrUpdateFileContents({
+              owner, repo, path: "README.md",
+              message: "chore: regen ascii contrib chart",
+              content: Buffer.from(next).toString("base64"),
+              sha: file.sha,
+            });
+            console.log("chart updated");
 
 <!-- FEATURED PROJECTS (STABIL 100%) -->
 ### Featured Projects
