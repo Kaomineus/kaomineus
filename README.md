@@ -44,10 +44,13 @@
 </table>
 
 ### Contribution Graph
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/ffffff/Kaomineus.svg" alt="Contribution Graph" width="100%" />
-</p>
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│  ▁ ▂ ▃ ▂ ▅ ▆ █ ▆ ▅  ▂ ▁ ▂ ▄ ▆ █ ▇ ▅ ▃ ▂ ▁ ▂ ▃ ▅ ▇ █ ▆ ▅   │
+│ ───────────────────────────────────────────────────────────  │
+│  line/bar chart kontribusi harian · warna bisa custom        │
+└──────────────────────────────────────────────────────────────┘
+src: https://ghchart.rshah.org/58a6ff/Kaomineus.svg
 
 <!-- FEATURED PROJECTS (STABIL 100%) -->
 ### Featured Projects
