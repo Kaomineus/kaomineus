@@ -45,9 +45,22 @@
 
 ### Contribution Graph
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaomineus&theme=github_dark" alt="Profile Details" width="100%" />
-</p>
+<table width="100%">
+  <tr>
+    <td><code>■ CONTRIBUTION CHART · DAILY</code></td>
+    <td align="right"><code>● LIVE · ghchart</code></td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <img src="https://ghchart.rshah.org/58a6ff/Kaomineus.svg" alt="Contribution Chart" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><sub>line/bar chart kontribusi harian · warna bisa custom</sub></td>
+  </tr>
+</table>
+
+
 <!-- FEATURED PROJECTS (STABIL 100%) -->
 ### Featured Projects
 
