@@ -47,17 +47,18 @@
 
 <table width="100%">
   <tr>
-    <td><code>■ KAOMINEUS · STATS</code></td>
-    <td align="right"><code>● LIVE · readme-stats</code></td>
+    <td><code>■ CONTRIB · 52 WEEKS · AUTO-REGEN 24H</code></td>
+    <td align="right"><code>● LIVE · GitHub API</code></td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-readme-stats.vercel.app/api?username=Kaomineus&show_icons=true&theme=transparent&title_color=ffffff&icon_color=58a6ff&text_color=9aa4b0&hide_border=true" alt="Stats" width="55%" />
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaomineus&layout=compact&theme=transparent&title_color=ffffff&text_color=9aa4b0&hide_border=true" alt="Top Langs" width="40%" />
+<!--CONTRIB:START-->
+<pre>░░▒▓█░░▒█▓░░░██▒░▓░░█▒▒░▓█░░▒░█░▒░░█▒▓░░█░▒▓█░░▒░▓█</pre>
+<!--CONTRIB:END-->
     </td>
   </tr>
   <tr>
-    <td colspan="2"><sub>⭐ stars · 🔀 PRs · 📝 commits · top languages bar</sub></td>
+    <td colspan="2"><sub>░ = 0 · ▒ = 1-3 · ▓ = 4-7 · █ = 8+ commits/minggu · butuh workflow <code>.github/workflows/contrib.yml</code> (kode di pesan sebelumnya)</sub></td>
   </tr>
 </table>
 
