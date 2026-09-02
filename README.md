@@ -47,16 +47,17 @@
 
 <table width="100%">
   <tr>
-    <td><code>👤 KAOMINEUS · PROFILE</code></td>
-    <td align="right"><code>● LIVE · summary-cards</code></td>
+    <td><code>■ KAOMINEUS · STATS</code></td>
+    <td align="right"><code>● LIVE · readme-stats</code></td>
   </tr>
   <tr>
     <td colspan="2">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kaomineus&theme=github_dark" alt="Profile Details" width="100%" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Kaomineus&show_icons=true&theme=transparent&title_color=ffffff&icon_color=58a6ff&text_color=9aa4b0&hide_border=true" alt="Stats" width="55%" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaomineus&layout=compact&theme=transparent&title_color=ffffff&text_color=9aa4b0&hide_border=true" alt="Top Langs" width="40%" />
     </td>
   </tr>
   <tr>
-    <td colspan="2"><sub>followers · following · repos · graph 1 tahun · top languages</sub></td>
+    <td colspan="2"><sub>⭐ stars · 🔀 PRs · 📝 commits · top languages bar</sub></td>
   </tr>
 </table>
 
